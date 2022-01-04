@@ -37,11 +37,11 @@ help = """\033[91m
 ║                    \033[00mBASIC COMMANDS\033[91m                    ║
 ║══════════════════════════════════════════════════════║
 ║ \033[00mClear                         \033[91m|\033[00m CLEAR SCREEN\033[91m         ║
-║ \033[00mExit                          \033[91m|\033[00m EXIT SINFULL\033[91m         ║
+║ \033[00mExit                          \033[91m|\033[00m EXIT ARMYNET\033[91m         ║
 ║ \033[00mMethods                       \033[91m|\033[00m SINS METHODS\033[91m         ║
 ║ \033[00mTools                         \033[91m|\033[00m BASIC TOOLS\033[91m          ║
 ║ \033[00mUpdates                       \033[91m|\033[00m DISPLAY UPDATE NOTES\033[91m ║
-║ \033[00mInfo                          \033[91m|\033[00m DISPLAY SINFULLS INFO\033[91m║
+║ \033[00mInfo                          \033[91m|\033[00m DISPLAY ARMY NET INFO\033[91m║
 ╚══════════════════════════════════════════════════════╝\033[00m
 """
 
@@ -55,7 +55,7 @@ tools = """\033[91m
 ║ \033[00mResolve <HOST>                \033[91m|\033[00m GRAB A DOMIANS IP\033[91m    ║
 ║ \033[00mPortscan <HOST> <RANGE>       \033[91m|\033[00m PORTSCAN A HOST  \033[91m    ║
 ║ \033[00mDnsresolve <HOST>             \033[91m|\033[00m GRAB ALL SUB-DOMAINS\033[91m ║
-║ \033[00mStats                         \033[91m|\033[00m DISPLAY SINFULL STATS\033[91m║
+║ \033[00mStats                         \033[91m|\033[00m DISPLAY ARMYNET STATS\033[91m║
 ╚══════════════════════════════════════════════════════╝\033[00m
 """
 
